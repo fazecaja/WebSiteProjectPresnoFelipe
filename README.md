@@ -15,7 +15,7 @@
 		<td colspan="4" rowspan="2"><h1>Mercazon</h1></td>
 	</tr>
 	<tr>
-		<td colspan="3" rowspan="2"><img src=""></td>
+		<td colspan="2" rowspan="3"><img src=""></td>
 	</tr>
   </table>
 </body>
