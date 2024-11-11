@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
+	
 </head>
 <body>
 	<table width="100%">
@@ -11,11 +11,12 @@
 		<td align="center" colspan="5" rowspan="1"><h3>Home-About Us</h3></td>
 	</tr>
 	<tr>
-		<td colspan="1" rowspan="2"><img src="hola.jpg"></td>
-		<td colspan="4" rowspan="2"><h1>Mercazon</h1></td>
+		<td colspan="1" rowspan="1"><img src="vaca.jpg" width="20%"></td>
+		<td align="left"><h1 colspan="5">Mercazon</h1></td>
 	</tr>
 	<tr>
-		<td colspan="2" rowspan="3"><img src=""></td>
+		<td><img src="shoes.png" width="25%"></td>
+		<td><h2>Mega Offers!!!</h2></td>
 	</tr>
   </table>
 </body>
